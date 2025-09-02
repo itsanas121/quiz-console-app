@@ -1,12 +1,16 @@
-# JavaQuiz
+# 🎯 Java Quiz Console App
 
-Console-based Java quiz app.  
-Answer multiple-choice questions and get your score.
+A simple **Java console-based quiz application**.  
+Users can answer multiple-choice questions, and the program calculates and displays the final score.
 
-## How to run
-```bash
-# compile
-javac src/*.java
+---
 
-# run
-java -cp src Main
+## 🚀 Features
+- Console-based interactive quiz  
+- Multiple-choice questions  
+- Automatic score calculation  
+- Easy to extend with new questions  
+
+---
+
+## 📂 Project Structure
